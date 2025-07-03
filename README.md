@@ -5,7 +5,7 @@
 Olá! Sou Adiel Dantas do Nascimento, tenho 30 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IBMR. Minha área de atuação é no desenvolvimento back-end, principalmente com Java e Spring. Seja para trocar ideias, compartilhar experiências ou trabalhar juntos, estou por aqui 🙋‍♂️
 
 <div>
-  <a href="https://www.linkedin.com/in/adiel-dantas-45875016a" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/adiel-dantas-176280357" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
