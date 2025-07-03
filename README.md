@@ -5,10 +5,15 @@
 Olá! Sou Adiel Dantas do Nascimento, tenho 30 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IBMR. Minha área de atuação é no desenvolvimento back-end, principalmente com Java e Spring. Seja para trocar ideias, compartilhar experiências ou trabalhar juntos, estou por aqui 🙋‍♂️
 
 <div> 
-  <a href="https://www.linkedin.com/in/adiel-dantas-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:adieldantas.contato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  <a href="https://www.linkedin.com/in/adiel-dantas-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:adieldantas.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
+
 
 ---
 
