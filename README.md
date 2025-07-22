@@ -1,38 +1,47 @@
-## 👨🏼‍💼 Adiel Dantas
+<h1 align="center">🚀 Adiel Dantas do Nascimento</h1>
 
-**`Desenvolvedor Back-End`**
-
-Olá! Sou Adiel Dantas do Nascimento, tenho 30 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IBMR. Minha área de atuação é no desenvolvimento back-end, principalmente com Java e Spring. Seja para trocar ideias, compartilhar experiências ou trabalhar juntos, estou por aqui 🙋‍♂️
-
-<div>
-  <a href="https://www.linkedin.com/in/adiel-dantas-176280357" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&to=adieldantas.contato@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
+<p align="center">
+  <i>Desenvolvedor Back-End | Java | Spring | Apaixonado por Tecnologia</i>
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="Spring" title="Spring" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="left" alt="JUnit 5" title="JUnit 5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg">
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="left" alt="Postman" title="Postman" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-  <img align="left" alt="Heroku" title="Heroku" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg">
-  <img align="left" alt="Railway" title="Railway" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
-  
-</div>
+Olá! Sou **Adiel Dantas do Nascimento**, tenho 30 anos e sou um entusiasta da tecnologia.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no IBMR**.  
+Minha área de atuação é no **desenvolvimento back-end**, com foco em **Java** e **Spring**.
 
+Seja para trocar ideias, compartilhar experiências ou trabalharmos juntos em algo, estou por aqui! 😄
 
-<br/>
-<br/> 
+---
 
-##
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit 5" alt="JUnit 5" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cassandra" title="Cassandra" alt="Cassandra" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" alt="Heroku" height="50"/>
+  <img src="https://skillicons.dev/icons?i=railway" title="Railway" alt="Railway" height="50"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adiel-dantas-176280357" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=adieldantas.contato@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
