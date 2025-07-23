@@ -37,10 +37,10 @@ Seja para trocar ideias, compartilhar experiências ou trabalharmos juntos em al
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adiel-dantas-176280357" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Perfil no LinkedIn de Adiel Dantas" alt="LinkedIn">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=adieldantas.contato@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Enviar e-mail para adieldantas.contato@gmail.com" alt="Gmail">
   </a>
 </p>
 
